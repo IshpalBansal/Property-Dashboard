@@ -1,5 +1,4 @@
-1. Property Dashboard.
-A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+1. 🏠Property Dashboard🏠
 
 2. Short Description / Purpose
 Developed a comprehensive Property Dashboard using Power BI to visualize and analyze real estate sales data. The dataset contained over 650K entries across various property types. Using Excel and Power Query, I performed extensive data cleaning, transformation, and integration.
@@ -51,6 +50,6 @@ Interactive Buttons: Used to toggle between filter panels (e.g., town selection)
 3. YOY growth visualization helped detect positive and negative sales trends across years, supporting strategic planning.
 4. Stakeholders can now quickly assess key metrics and drill down using intuitive filters, saving time and improving decision quality
 
-6. Screenshots / Demos
+Screenshots / Demos
    here is the main picture of the property dashboard :-
    (https://github.com/IshpalBansal/Property-Dashboard/blob/main/property%20main.png)
